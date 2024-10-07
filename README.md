@@ -19,15 +19,19 @@ Back
 
 Escenarios adicionales:
 - Cambio de especialidad médica
+  
 Funcionalidades de admisión:
 - Consultar disponibilidad de camas
-- Registrar el ingreso de un paciente 
+- Registrar el ingreso de un paciente
+  
 Funcionalidad del personal médico:
 - Consultar y registrar información del paciente
-- solicitar estudios o procesos adicionales 
+- solicitar estudios o procesos adicionales
+  
 Funcionalidades del administrador del hospital:
 - Calcular ingresos proyectados
-- generar reportes de ocupación y servicios médicos 
+- generar reportes de ocupación y servicios médicos
+  
 Funciones adicionales:
 - Historial del paciente
 
