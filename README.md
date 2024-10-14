@@ -28,9 +28,9 @@ Funcionalidad del personal médico:
 - Consultar y registrar información del paciente
 - solicitar estudios o procesos adicionales
   
-Funcionalidades del administrador del hospital:
-- Calcular ingresos proyectados
-- generar reportes de ocupación y servicios médicos
+**Funcionalidades del administrador del hospital:**
+**- Calcular ingresos proyectados**
+**- generar reportes de ocupación y servicios médicos**
   
 Funciones adicionales:
 - Historial del paciente
