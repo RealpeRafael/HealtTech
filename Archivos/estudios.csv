@@ -1,0 +1,101 @@
+﻿ID,EspecialidadMedica,Nombre,Precio
+1,Cardiología,Electrocardiograma,150000
+2,Radiología,Radiografía de Tórax,100000
+3,Laboratorio Clínico,Hemograma Completo,50000
+4,Neurología,Resonancia Magnética Cerebral,500000
+5,Dermatología,Biopsia de Piel,200000
+6,Ginecología,Ultrasonido Pélvico,180000
+7,Neumología,Espirometría,120000
+8,Oftalmología,Examen de Campo Visual,90000
+9,Cardiología,Ecocardiograma,250000
+10,Endocrinología,Prueba de Tolerancia a la Glucosa,70000
+11,Gastroenterología,Colonoscopia,550000
+12,Urología,Ecografía Renal,200000
+13,Oncología,Tomografía Computarizada de Tórax,600000
+14,Reumatología,Análisis de Factor Reumatoide,150000
+15,Cardiología,Prueba de Esfuerzo,300000
+16,Pediatría,Prueba de Alergia,130000
+17,Otorrinolaringología,Audiometría,110000
+18,Neurología,Electromiografía,400000
+19,Ortopedia,Densitometría Ósea,220000
+20,Ginecología,Colposcopia,140000
+21,Cardiología,Holter de 24 Horas,320000
+22,Dermatología,Examen de Dermatoscopía,95000
+23,Gastroenterología,Gastroscopia,450000
+24,Urología,Uroflujometría,150000
+25,Cardiología,Angiografía,700000
+26,Radiología,TAC de Abdomen,800000
+27,Neurología,Polisomnografía,600000
+28,Endocrinología,Perfil Lipídico,60000
+29,Reumatología,Análisis de Proteína C Reactiva,90000
+30,Laboratorio Clínico,Test de Función Hepática,75000
+31,Cardiología,Monitoreo Ambulatorio de Presión Arterial,200000
+32,Endocrinología,Hormona Tiroidea,85000
+33,Gastroenterología,Ecografía Abdominal,300000
+34,Ortopedia,Resonancia Magnética de Rodilla,700000
+35,Pediatría,Prueba de Tolerancia a la Lactosa,120000
+36,Urología,Antígeno Prostático Específico,140000
+37,Ginecología,Citología Vaginal,70000
+38,Neurología,Tomografía Axial Computarizada (TAC) Cerebral,500000
+39,Neumología,Prueba de Función Pulmonar,150000
+40,Radiología,Resonancia Magnética de Columna,800000
+41,Cardiología,Prueba de Estrés Nuclear,650000
+42,Oncología,Examen de Biopsia,450000
+43,Endocrinología,Hemoglobina Glicosilada,80000
+44,Ortopedia,Rayos X de Columna,100000
+45,Neurología,Punción Lumbar,300000
+46,Dermatología,Prueba de Sensibilidad Cutánea,110000
+47,Gastroenterología,Test de Helicobacter Pylori,60000
+48,Reumatología,Examen de Uricemia,80000
+49,Urología,Test de Fertilidad Masculina,120000
+50,Otorrinolaringología,Examen de Audiometría,130000
+51,Oftalmología,Examen de Agudeza Visual,85000
+52,Ginecología,Test de Embarazo,40000
+53,Cardiología,Ecografía Doppler de Vasos,200000
+54,Neurología,Electroencefalograma,350000
+55,Oncología,PET Scan,1200000
+56,Endocrinología,Perfil Tiroideo,75000
+57,Laboratorio Clínico,Examen de Glucosa en Ayunas,30000
+58,Gastroenterología,Endoscopia Digestiva Alta,500000
+59,Neumología,Poligrafía Respiratoria,400000
+60,Radiología,Mamografía,150000
+61,Dermatología,Test de Fototerapia,95000
+62,Urología,Ecografía Prostática,140000
+63,Pediatría,Prueba de Desnutrición,70000
+64,Ortopedia,Rayos X de Huesos Largos,120000
+65,Ginecología,Monitorización Fetal,150000
+66,Neurología,Resonancia Magnética de Columna Cervical,550000
+67,Oftalmología,Test de Fondo de Ojo,90000
+68,Cardiología,Cateterismo Cardíaco,1500000
+69,Gastroenterología,Phmetría de 24 Horas,300000
+70,Endocrinología,Curva de Insulina,100000
+71,Laboratorio Clínico,Análisis de Orina,40000
+72,Neumología,Broncoscopia,350000
+73,Radiología,Ecografía de Partes Blandas,200000
+74,Reumatología,Análisis de VSG,80000
+75,Oncología,Test de Marcadores Tumorales,500000
+76,Gastroenterología,Test de Sangre Oculta en Heces,200000
+77,Ortopedia,Tomografía de Cadera,600000
+78,Cardiología,Ecografía de Aorta,300000
+79,Ginecología,Examen de Esterilidad,500000
+80,Endocrinología,Test de Cortisol,70000
+81,Neurología,Prueba de Conducción Nerviosa,40000
+82,Urología,Test de Urodinámica,350000
+83,Neumología,Test de Marcha de 6 Minutos,180000
+84,Dermatología,Prueba de Cultivo de Hongos,150000
+85,Cardiología,Ecografía de Carótidas,120000
+86,Oftalmología,Paquimetría Corneal,100000
+87,Ortopedia,Artroscopia de Rodilla,30000
+88,Neurología,Estudio de Potenciales Evocados,200000
+89,Ginecología,Histeroscopia,80000
+90,Endocrinología,Perfil Androgénico,150000
+91,Reumatología,Test de Autoanticuerpos,700000
+92,Neumología,Prueba de Capacidad de Difusión Pulmonar,100000
+93,Otorrinolaringología,Rinometría,120000
+94,Dermatología,Examen de Biopsia Cutánea,75000
+95,Oncología,Gammagrafía Ósea,650000
+96,Urología,Prueba de Espermatograma,180000
+97,Cardiología,Angiografía Coronaria,200000
+98,Oftalmología,Topografía Corneal,30000
+99,Endocrinología,Test de Hormona del Crecimiento,85000
+100,Laboratorio Clínico,Prueba de Electrolitos,50000
